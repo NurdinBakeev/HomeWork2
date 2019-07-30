@@ -9,7 +9,7 @@ double remaningAmount;
         this.remaningAmount = remainingAmount;
     }
 
-    public void getRemainingAmount() {
+    public void getRemainingAmount(String message) {
 
     }
 }
